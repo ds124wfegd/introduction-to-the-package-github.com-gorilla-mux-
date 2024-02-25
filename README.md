@@ -1,3 +1,5 @@
+//from the book Building RESTful Web Services with Go, Naren Yellavula
+
 go run muxRouter.go
 
 By running the CURL command this way, we can get the output as follows:

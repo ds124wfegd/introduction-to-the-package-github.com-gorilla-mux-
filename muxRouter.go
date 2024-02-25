@@ -1,3 +1,5 @@
+//from the book Building RESTful Web Services with Go, Naren Yellavula
+
 package main
 
 import (
